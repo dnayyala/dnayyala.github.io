@@ -42,8 +42,8 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
-  - block: tab.experience
-    id: experience-job
+  - block: experience
+    id: experience
     content:
       title: Experience
       # Choose a user profile to display (a folder name within `content/authors/`)

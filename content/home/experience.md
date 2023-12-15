@@ -1,6 +1,6 @@
 ---
 widget: experience
-headless: true
+headless: false
 
 date_format: Jan 2006
 experience:
@@ -66,8 +66,7 @@ experience:
         * Graduate teaching assistant for several undergraduate courses in the College of Natural and Mathematical Sciences, UMBC.
         * Part-time instructor for upper-level undergraduate courses in summer and winter sessions
    
-widget_id: experience-job
-headless: true
+widget_id: experience
 weight: 30
 title: Experience
 subtitle: null
