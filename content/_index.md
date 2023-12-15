@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -51,24 +52,28 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: experience
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
   - block: publications
+    id: publications
     content:
       title: publications
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
   - block: software
+    id: software
     content:
       title: 'Software/Packages'
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
   - block: conference-papers
+    id: conference-papers
     content:
       title: 'Conference Proceedings'
       text: ''
