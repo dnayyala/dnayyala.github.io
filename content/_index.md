@@ -73,11 +73,11 @@ sections:
           description: >-
             Tenure track assistant professor in the Division of Biostatistics and Data Science in the Department of Population Health Sciences. Responsibilities included
             
-              * Designand teach graduate-level courses in biostatistics, train graduate students and guide PhD dissertations
-              * Conduct independent and collaborative in biostatisticswith applications in publichealth and genomics
+              * Design and teach graduate-level courses in biostatistics, train graduate students and guide PhD dissertations
+              * Conduct independent and collaborative in biostatistics with applications in public health and genomics
               * Participate in university-wide committees, including Institutional Review Board (IRB)
     
-          - title: 'Postdoctoral Associate'
+        - title: 'Postdoctoral Associate'
           company: 'Jackson Laboratory for Genomic Medicine'
           company_url: ''
           location: 'Hartford, Connecticut'
