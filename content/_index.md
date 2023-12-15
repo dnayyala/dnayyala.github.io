@@ -56,9 +56,6 @@ sections:
       title: Experience
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
-      filters:
-        folders:
-          - experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       # date_format: Jan 2006
