@@ -50,7 +50,7 @@ sections:
       username: deepak-nag-ayyala
     design:
       columns: '1'
-  - block: experience
+  - block: collection
     id: experience
     content:
       title: Experience
