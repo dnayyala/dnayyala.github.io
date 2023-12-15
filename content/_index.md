@@ -169,7 +169,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - software
         author: ""
         category: ""
         tag: ""

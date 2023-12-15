@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Software
 cms_exclude: true
 
 # View.
