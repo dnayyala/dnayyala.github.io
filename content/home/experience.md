@@ -3,7 +3,7 @@ widget: experience
 headless: false
 
 date_format: Jan 2006
-experience:
+items:
 
   - title: 'Senior Manager'
     company: 'Takeda Pharmaceuticals'
