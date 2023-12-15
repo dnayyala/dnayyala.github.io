@@ -2,7 +2,7 @@
 title: "Small Towns, Big Cities: Rural and Urban Disparities Among Hospitalized
   Patients With COVID-19 in the Central Savannah River Area"
 publication_types:
-  - "2"
+  - "Epidemiology"
 authors:
   - C. A. Hamilton
   - deepak-nag-ayyala

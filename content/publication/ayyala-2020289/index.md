@@ -24,7 +24,7 @@ abstract: In modern-day analytics, there is ever-growing need to develop
   big data analysis.
 draft: false
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0169716120300250
-featured: false
+featured: true
 tags:
   - '"Multivariate analysis"'
   - '"High-dimensional inference"'

@@ -10,7 +10,7 @@ doi: https://doi.org/10.1007/s00180-021-01166-4
 publication: "*Computational Statistics*"
 abstract: ""
 draft: false
-featured: false
+featured: true
 date: 2021-01-01
 publishDate: 2021-11-08T03:10:09.672Z
 ---

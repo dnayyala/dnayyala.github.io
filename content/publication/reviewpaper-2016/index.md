@@ -2,7 +2,7 @@
 title: Statistical Challenges in Analyzing Methylation and Long-Range
   Chromosomal Interaction Data
 publication_types:
-  - "2"
+  - "Review"
 authors:
   - Z. Qin
   - B. Li

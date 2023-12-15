@@ -2,7 +2,7 @@
 title: "406 - Barostat Assisted Sensory Adaptation Training For IBS And Rectal
   Hypersensitivity: Randomized Controlled Trial"
 publication_types:
-  - "1"
+  - "Gastroenterology"
 authors:
   - S. S. C. Rao
   - Y. Yan

@@ -2,7 +2,7 @@
 title: Randomized Controlled Trial of Home Biofeedback Therapy versus Office
   Biofeedback Therapy for Fecal Incontinence
 publication_types:
-  - "2"
+  - "Gastroenterology"
 authors:
   - X. Xiang
   - A. Sharma

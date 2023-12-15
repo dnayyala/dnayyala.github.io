@@ -2,7 +2,7 @@
 title: Statistical methods for detecting differentially methylated regions based
   on MethylCap-seq data
 publication_types:
-  - "2"
+  - "Methodology"
 authors:
   - deepak-nag-ayyala
   - D. E. Frankhouser

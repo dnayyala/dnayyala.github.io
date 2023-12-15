@@ -1,7 +1,7 @@
 ---
 title: Mean vector testing for high-dimensional dependent observations
 publication_types:
-  - "2"
+  - "Methodology"
 authors:
   - deepak-nag-ayyala
   - J. Park
@@ -21,7 +21,7 @@ abstract: When testing for the mean vector in a high-dimensional setting, it is
   finite samples through simulations.
 draft: false
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0047259X16300999
-featured: false
+featured: true
 tags:
   - '"High-dimension"'
   - '"Asymptotic normality"'

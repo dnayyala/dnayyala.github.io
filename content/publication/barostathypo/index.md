@@ -2,7 +2,7 @@
 title: "Barostat or syringe-assisted sensory biofeedback training for
   constipation with rectal hyposensitivity: A randomized controlled trial"
 publication_types:
-  - "2"
+  - "Gastroenterology"
 authors:
   - S. S. C. Rao
   - Y. Yan

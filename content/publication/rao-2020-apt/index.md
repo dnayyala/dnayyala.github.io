@@ -2,7 +2,7 @@
 title: "Randomised clinical trial: linaclotide vs placebo—a study of
   bi-directional gut and brain axis"
 publication_types:
-  - "2"
+  - "Gastroenterology"
 authors:
   - S. S. C. Rao
   - X. Xiang

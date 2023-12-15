@@ -1,7 +1,7 @@
 ---
 title: Two-Sample High Dimensional Mean Test Based On Prepivots
 publication_types:
-  - "2"
+  - "Methodology"
 authors:
   - S. Ghosh
   - deepak-nag-ayyala

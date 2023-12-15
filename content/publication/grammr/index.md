@@ -2,7 +2,7 @@
 title: "GrammR: graphical representation and modeling of count data with
   application in metagenomics"
 publication_types:
-  - "2"
+  - "Methodology"
 authors:
   - deepak-nag-ayyala
   - S. Lin

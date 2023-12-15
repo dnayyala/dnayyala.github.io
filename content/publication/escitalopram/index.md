@@ -2,7 +2,7 @@
 title: "Sensory Adaptation Training or Escitalopram for IBS with Constipation
   and Rectal Hypersensitivity: Randomized Controlled Trial"
 publication_types:
-  - "2"
+  - "Gastroenterology"
 authors:
   - S. S. C. Rao
   - E. Coss-Adame

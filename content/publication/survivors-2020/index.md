@@ -1,7 +1,7 @@
 ---
 title: Cardiovascular Disease among Breast Cancer Survivors
 publication_types:
-  - "2"
+  - "Epidemiology"
 authors:
   - S. C. Coughlin
   - deepak-nag-ayyala

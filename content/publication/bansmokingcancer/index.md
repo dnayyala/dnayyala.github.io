@@ -1,7 +1,7 @@
 ---
 title: "Cigarette Smoking after Surviving Breast Cancer: A Pilot Study"
 publication_types:
-  - "2"
+  - "Epidemiology"
 authors:
   - B. Majeed
   - deepak-nag-ayyala

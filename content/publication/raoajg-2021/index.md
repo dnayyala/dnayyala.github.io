@@ -2,7 +2,7 @@
 title: "Translumbosacral Neuromodulation Therapy for Fecal Incontinence: A
   Randomized Frequency Response Trial"
 publication_types:
-  - "2"
+  - "Gastroenterology"
 authors:
   - S. S. C. Rao
   - X. Xiang

@@ -2,7 +2,7 @@
 title: Trends in hospitalization rates of lab-confirmed COVID-19 adults at a
   large academic health center in the U.S. March-August 2020
 publication_types:
-  - "1"
+  - "Epidemiology"
 authors:
   - B. Majeed
   - D. Walsh

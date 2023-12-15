@@ -1,7 +1,7 @@
 ---
 title: Orthopaedic Trauma Trends During Covid-19 Epidemic
 publication_types:
-  - "3"
+  - "Epidemiology"
 authors:
   - J. C. Gibbs
   - C. J. Boatman

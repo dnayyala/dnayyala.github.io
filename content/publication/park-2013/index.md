@@ -1,7 +1,7 @@
 ---
 title: A test for the mean vector in large dimension and small samples
 publication_types:
-  - "2"
+  - "Methodology"
 authors:
   - J. Park
   - deepak-nag-ayyala

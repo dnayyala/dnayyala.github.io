@@ -2,7 +2,7 @@
 title: A Health Survey of African American Men Seen at an Academic Medical
   Center in the Southern United States
 publication_types:
-  - "2"
+  - "Epidemiology"
 authors:
   - S. S. Coughlin
   - deepak-nag-ayyala

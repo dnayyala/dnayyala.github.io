@@ -2,7 +2,7 @@
 title: "Adjusting for Confounders in Cross-correlation Analysis: an Application
   to Resting State Networks"
 publication_types:
-  - "2"
+  - "Methodology"
 authors:
   - deepak-nag-ayyala
   - A. Roy

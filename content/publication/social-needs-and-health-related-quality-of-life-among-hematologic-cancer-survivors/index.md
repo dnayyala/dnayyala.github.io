@@ -2,7 +2,7 @@
 title: Social needs and health-related quality of life among hematologic cancer
   survivors
 publication_types:
-  - "2"
+  - "Epidemiology"
 authors:
   - S.C.Coughlin
   - deepak-nag-ayyala
