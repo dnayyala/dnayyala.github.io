@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: ''
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-SSFG87YQE9'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/dnayyala/dnayyala.github.io'
     content_dir: content
     branch: main
   avatar:
