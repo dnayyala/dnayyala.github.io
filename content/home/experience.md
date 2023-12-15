@@ -1,6 +1,6 @@
 ---
 widget: experience
-headless: false
+headless: true
 
 date_format: Jan 2006
 items:
