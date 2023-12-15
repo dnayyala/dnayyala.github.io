@@ -51,7 +51,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: experience
+    id: experience-job
     content:
       title: Experience
       # Choose a user profile to display (a folder name within `content/authors/`)
