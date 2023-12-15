@@ -42,15 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: deepak-nag-ayyala
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: deepak-nag-ayyala
-    design:
-      columns: '1'
-  - block: experience
+  - block: tab.experience
     id: experience-job
     content:
       title: Experience
@@ -86,8 +78,8 @@ sections:
       #     date_start: '2016-01-01'
       #     date_end: '2020-12-31'
       #     description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
