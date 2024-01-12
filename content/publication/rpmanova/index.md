@@ -1,7 +1,7 @@
 ---
 title: High dimensional MANOVA using random projections
 publication_types:
-  - "Working Manuscript"
+  - '0'
 authors:
   - V. Ong
   - B. Choi
