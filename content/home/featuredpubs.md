@@ -1,5 +1,5 @@
 ---
-widget: featuredpubs
+widget: pages
 widget_id: featuredpubs
 headless: true
 weight: 40
