@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: featuredpubs
 widget_id: featured-papers
 headless: true
 weight: 40
